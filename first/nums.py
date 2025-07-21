@@ -1,5 +1,5 @@
 def plus(a,b):
-    return a + b
+    return 5 + a + b
 
 def minus(a,b):
     return a - b

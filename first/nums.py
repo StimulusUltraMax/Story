@@ -2,7 +2,7 @@ def plus(a,b):
     return 5 + a + b
 
 def minus(a,b):
-    return a - b
+    return 10 - a - b
 
 def mul(a,b):
     return 2 * a * b

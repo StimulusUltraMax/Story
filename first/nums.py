@@ -5,7 +5,7 @@ def minus(a,b):
     return a - b
 
 def mul(a,b):
-    return a * b
+    return 2 * a * b
 
 if __name__ == '__main__':
     print(plus(2,2))
